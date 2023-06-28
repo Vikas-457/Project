@@ -1,0 +1,1 @@
+branching practcie on git and simulatneously created another user on ec2 with same repo
