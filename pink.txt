@@ -1,7 +1,0 @@
-branching practcie on git and simulatneously created another user on ec2 with same repo
-<<<<<<< HEAD
-Added third line
-=======
-Added second line
-
->>>>>>> ec2branch
